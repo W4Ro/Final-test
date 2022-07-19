@@ -1,6 +1,6 @@
 .lien
 {
-    background-color: none;
+    background-color: burlywood;
     color: black;
     padding: 5px;
     text-decoration: none;
@@ -8,6 +8,7 @@
     display: inline-block;
     text-align: center;
     margin: 4px 2px;
+    border-radius:25px;
 }
 header nav
 {
